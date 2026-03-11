@@ -169,13 +169,13 @@ Customers
 ## Web Application
 
 <p align="center">
-<img src="screenshots/i1.png" width="450">
-<img src="screenshots/i2.png" width="450">
-<img src="screenshots/i3.png" width="450">
-<img src="screenshots/i4.png" width="450">
-<img src="screenshots/i5.png" width="450">
-<img src="screenshots/i6.png" width="450">
-<img src="screenshots/i7.png" width="450">
+<img src="screenshots/i1.png" width="400">
+<img src="screenshots/i2.png" width="400">
+<img src="screenshots/i3.png" width="400">
+<img src="screenshots/i4.png" width="400">
+<img src="screenshots/i5.png" width="400">
+<img src="screenshots/i6.png" width="400">
+<img src="screenshots/i7.png" width="400">
 </p>
 
 ---
