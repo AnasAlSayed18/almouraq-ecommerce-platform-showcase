@@ -1,8 +1,10 @@
-# 🛒 Almouraq Supermarket Platform (Eecommerce System)
+#  Almouraq Supermarket Platform (Eecommerce System)🛒
 
-<p align="center">
-<img src="screenshots/splash.gif" width="400"/>
+<p >
+<img src="screenshots/FLogo.png" width="300"/>
 </p>
+
+---
 
 <p align="center">
 
@@ -154,9 +156,12 @@ Customers
 ## Mobile Application
 
 <p align="center">
-<img src="screenshots/home.png" width="220">
-<img src="screenshots/product.png" width="220">
-<img src="screenshots/cart.png" width="220">
+<img src="screenshots/d1.png" width="220">
+   <img src="screenshots/d2.png" width="220">
+<img src="screenshots/d3.png" width="220">
+<img src="screenshots/4.jpg" width="220">
+<img src="screenshots/d5.png" width="220">
+<img src="screenshots/6.jpg" width="220">
 </p>
 
 ---
@@ -164,8 +169,13 @@ Customers
 ## Web Application
 
 <p align="center">
-<img src="screenshots/web_home.png" width="350">
-<img src="screenshots/web_products.png" width="350">
+<img src="screenshots/i1.png" width="450">
+<img src="screenshots/i2.png" width="450">
+<img src="screenshots/i3.png" width="450">
+<img src="screenshots/i4.png" width="450">
+<img src="screenshots/i5.png" width="450">
+<img src="screenshots/i6.png" width="450">
+<img src="screenshots/i7.png" width="450">
 </p>
 
 ---
@@ -173,12 +183,33 @@ Customers
 ## Admin Dashboard
 
 <p align="center">
-<img src="screenshots/admin_dashboard.png" width="350">
-<img src="screenshots/admin_orders.png" width="350">
+<img src="screenshots/x0.png" width="600">
 </p>
 
 ---
 
+# 🎥 Android App Live Demo
+
+You can watch a **live demonstration of the Android application** showcasing the full user experience including:
+
+- Browsing products
+- Viewing offers
+- Adding items to cart
+- Checkout and order confirmation
+
+<p align="center">
+
+<a href="https://drive.google.com/file/d/1HBn1nXJbiCLaCpgWF3377IU1Hopsiika/view?usp=sharing">
+<img src="screenshots/c0.jpg">
+</a>
+
+</p>
+
+📺 **Watch the full demo video here:**
+
+PUT_VIDEO_LINK_HERE
+
+---
 # 📊 Project Highlights
 
 ✔ Production system  
